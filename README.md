@@ -2,8 +2,9 @@
  Trabalho de Java para o segundo semestre de faculdade - Interação com Array
  
  <p> Painel onde da o usuário opções de manipular uma lista criada</p>
-![jva1](https://user-images.githubusercontent.com/86326004/141397977-acfa911a-8c1e-4fbd-b92d-ffac0ac73ff8.JPG)
+![jva1](https://user-images.githubusercontent.com/86326004/141398206-6d9ec9f0-1b8d-4b9b-b651-33e4cbb78d06.JPG)
+
 <br>
 <p> Terminal com cada operação realizada</p>
-![jva2](https://user-images.githubusercontent.com/86326004/141397981-e3c0c9c1-9e45-4a52-a803-68eec2ea68f6.JPG)
 
+![jva2](https://user-images.githubusercontent.com/86326004/141398220-10f1d8ac-dba3-4215-96ac-5f72f627d987.JPG)
